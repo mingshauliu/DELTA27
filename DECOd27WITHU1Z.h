@@ -1,3 +1,4 @@
+*This file is edited from the original DECO file to include D27 and an additional U1 shaping symmetry
 *
 *	Declarations
 *
